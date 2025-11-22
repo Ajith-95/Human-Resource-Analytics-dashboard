@@ -34,11 +34,11 @@ To analyze workforce patterns, improve employee retention, and strengthen hiring
 
 #Business Impact:
 
-Reduces hiring costs through optimized recruitment funnels.
+>Reduces hiring costs through optimized recruitment funnels.
 
-Enhances retention by identifying drivers of employee exits.
+>Enhances retention by identifying drivers of employee exits.
 
-Supports workforce planning and skill‑gap identification.
+>Supports workforce planning and skill‑gap identification.
 
 
 #How to Use These Dashboards:
